@@ -2,6 +2,9 @@
 layout: post
 title: "Dear sir or madam: the bookmarklet you didn't know you needed"
 category: posts
+tags:
+  - life
+  - tech
 ---
 
 Do you sometimes feel the internet is holding you hostage? Don't you wish the internet would _look_ like it's holding you hostage? Worry no more! [Dear-sir-or-madam](https://github.com/notwaldorf/dear-sir-or-madam) is a bookmarklet that makes web pages look like they're ransom notes. For example, like this:

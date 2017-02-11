@@ -2,6 +2,9 @@
 layout: post
 title: Oops, I accidentally the whole DNS
 category: posts
+tags:
+  - life
+  - tech
 ---
 
 Here is my confession, internet: I am writing a cat DNS. That is, a DNS server that resolves everything to cats. You want your email? Cat! You want to check the weather? Cat! It's always cat.

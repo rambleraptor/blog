@@ -2,6 +2,9 @@
 layout: post
 title: "Cocoa gems or: how this isn't about reimplementing Ruby in Objective-C"
 category: posts
+tags:
+  - life
+  - tech
 ---
 Because that would be crazy. Crazy is in the next blog post.
 
