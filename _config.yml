@@ -1,8 +1,15 @@
+# Jekyll General
 permalink: /posts/:title/
 name: Alex Stephen
 url: https://www.rambleraptor.com
 description: It's a blog!
 future: true
-twitter: rambleraptor
-gravatar_url: 
 google_analytics_tracking_id: UA-47334320-2
+gems:
+  - jekyll-seo-tag
+
+# SEO Social
+twitter:
+  username: rambleraptor
+author:
+  twitter: rambleraptor

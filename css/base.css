@@ -1,13 +1,5 @@
 @charset "UTF-8";
 
-@font-face {
-  font-family: og-emoji;
-  src: url(/fonts/og-dcm-emoji.ttf);
-}
-.og {
-  font-family: og-emoji, sans-serif;
-}
-
 html, body {
   margin: 0;
 }
